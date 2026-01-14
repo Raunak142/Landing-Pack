@@ -1,6 +1,6 @@
 import React from 'react';
 import { ExternalLink, Github, Layers } from 'lucide-react';
-import { Template } from '../types';
+import { Template } from '../../types';
 
 interface TemplateCardProps {
   template: Template;

@@ -1,5 +1,5 @@
 import React from 'react';
-import TemplateCard from '../components/TemplateCard';
+import TemplateCard from '../components/features/TemplateCard';
 import { templates } from '../data/templates';
 import { Sparkles } from 'lucide-react';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Layout } from 'lucide-react';
-import ThemeToggle from './ThemeToggle';
+import ThemeToggle from '../ui/ThemeToggle';
 
 const Navbar: React.FC = () => {
   const location = useLocation();
